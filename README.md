@@ -2,9 +2,9 @@
 
 <p align="center">
 Full-Stack Developer | MERN Stack | Spring Boot
-br
-I build modern web applications and love learning new technologies.
 </p>
+
+<p align="center">I build modern web applications and love learning new technologies.</p>
 
 ---
 
