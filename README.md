@@ -22,5 +22,9 @@ MERN Stack Developer | Spring Boot Developer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
 </p>
 
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,spring,mysql" />
+</p>
+
 ### 🌐 Portfolio
 👉 https://dev.trekkersnow.com
