@@ -20,3 +20,4 @@ Full-Stack Developer | MERN Stack | Spring Boot
 
 ### 🌐 Portfolio
 👉 https://dev.trekkersnow.com
+👉 <a href="https://www.linkedin.com/in/noman-ejaz-66458b1b5/" target="_blank">LinkedIn</a>
