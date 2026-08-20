@@ -16,10 +16,11 @@ I build modern software applications and explore practical AI solutions across h
 
 ---
 
-<table>
+<table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
+
 
 ## 👨‍💻 About Me
 
