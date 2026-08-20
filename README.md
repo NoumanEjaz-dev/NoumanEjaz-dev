@@ -1,151 +1,112 @@
 <h1 align="center">Hi 👋, I'm Noman Ejaz</h1>
 
 <h3 align="center">
-Software Developer | AI/ML Researcher | Healthcare AI & AIoT
+Software Developer • AI/ML Researcher • Healthcare AI • AIoT
 </h3>
 
 <p align="center">
-Building intelligent software systems and exploring the intersection of
-Artificial Intelligence, Healthcare, IoT, and modern software engineering.
+I build modern software applications and explore practical AI solutions across healthcare, intelligent systems, and connected technologies.
+</p>
+
+<p align="center">
+  <a href="https://dev.trekkersnow.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/noman-ejaz-66458b1b5/">LinkedIn</a> •
+  <a href="https://github.com/NoumanEjaz-dev">GitHub</a>
 </p>
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Software Developer with experience in the **MERN Stack**
-- 🔬 AI/ML researcher focused on practical experimentation and intelligent systems
-- 🏥 Interested in **Healthcare AI, Medical Imaging, and Clinical AI**
-- 🤖 Exploring **Large Language Models (LLMs), Fine-Tuning, and AI Agents**
-- 🌐 Interested in **AIoT (Artificial Intelligence of Things)** and intelligent connected systems
-- ☕ Expanding my backend development knowledge with **Java & Spring Boot**
-- 📊 Interested in transforming real-world datasets into useful AI-driven solutions
-- 🌍 Open to **Software Engineering, AI/ML, Research, and Remote opportunities**
+- 💻 Full-Stack Software Developer
+- 🔬 AI/ML Researcher & Experimenter
+- ⚛️ Experienced with the MERN Stack
+- ☕ Expanding Java & Spring Boot skills
+- 🧩 Interested in scalable backend systems
+- 🚀 Building research-driven applications
+- 🌍 Open to Software & AI opportunities
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🔬 Research Interests
 
 - 🏥 Healthcare Artificial Intelligence
-- 🩻 Medical Image Analysis
-- 🧠 Large Language Models & Medical Reasoning
-- 🔧 LLM Fine-Tuning & Evaluation
-- 📊 Machine Learning & Data Analysis
-- 🌐 AIoT — Artificial Intelligence of Things
+- 🩻 Medical Imaging & Analysis
+- 🧠 Large Language Models
+- 🔧 Model Fine-Tuning & Evaluation
+- 🌐 AIoT & Connected Systems
 - 🤖 Intelligent & Autonomous Systems
-- 💡 Applied AI Research
+- 📊 Applied Machine Learning
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧪 Research & AI Experiments
+## 🧪 Featured Research & Experiments
 
-### 🩻 Chest X-Ray Dataset Analysis
 
-Exploratory analysis and preprocessing of a multi-label chest X-ray dataset,
-with a focus on understanding medical imaging data before machine-learning
-model development.
+<table>
+<tr>
 
-**Research Areas:**
-- Medical imaging dataset analysis
-- Multi-label classification data
-- Patient-level analysis
-- Class imbalance analysis
-- Data cleaning and validation
-- Medical data visualization
+<td width="50%" valign="top">
 
-🔗 **Repository:**  
-[Chest X-Ray Dataset Analysis](https://github.com/NoumanEjaz-dev/Chest-xray-dataset-analysis)
+## 🚀 Currently Exploring
 
----
+- AI-assisted healthcare systems
+- Medical reasoning with LLMs
+- Edge AI applications
+- AI-powered IoT solutions
+- AI agents and automation
 
-### 🧠 ClinicalPhi — Medical Reasoning with Phi-4
+</td>
 
-An experimental Healthcare AI project exploring the adaptation of
-Microsoft Phi-4 for medical reasoning using parameter-efficient
-fine-tuning.
+<td width="50%" valign="top">
 
-**Research Areas:**
-- Large Language Models
-- Medical reasoning
-- LoRA fine-tuning
-- Model evaluation
-- Prompt/completion training
-- Quantized LLM experimentation
-- Base vs fine-tuned model comparison
+## 🎯 Long-Term Direction
 
-🔗 **Repository:**  
-[ClinicalPhi — Medical Reasoning](https://github.com/NoumanEjaz-dev/ClinicalPhi-Medical-Reasoning)
+I aim to develop intelligent products that combine **strong software engineering with applied AI research**, particularly for healthcare and connected-device applications.
 
----
+<br>
 
-## 🚀 Current Research Direction
+**Core Direction**
 
-I am particularly interested in developing intelligent systems where
-**AI, software engineering, healthcare, and connected devices intersect.**
+AI + Healthcare + IoT + Software Engineering
 
-Some areas I am currently exploring include:
+</td>
 
-- AI-assisted healthcare applications
-- Medical reasoning using LLMs
-- Medical image analysis
-- AI-powered IoT systems
-- Intelligent monitoring systems
-- Edge AI and smart devices
-- AI agents integrated with real-world applications
-- Applied machine learning for healthcare datasets
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Software Development
+### 💻 Software Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,spring,mysql,html,css" />
 </p>
 
-### AI / Research
+### 🤖 AI / Research
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-**Research & Data Tools:**  
-Python • PyTorch • Pandas • Matplotlib • Jupyter • Google Colab • Hugging Face • LoRA • LLM Fine-Tuning
-
----
-
-## 💡 What I'm Working Toward
-
-My goal is to combine my background in **software development** with
-**Artificial Intelligence research** to build practical intelligent systems.
-
-I am especially interested in projects involving:
-
-> **AI + Healthcare + IoT + Software Engineering**
-
-I enjoy experimenting with emerging AI technologies, understanding how
-models behave on real-world datasets, and turning research concepts into
-working software applications.
-
----
-
-## 🌐 Portfolio & Connect
-
-🌐 **Portfolio:**  
-[dev.trekkersnow.com](https://dev.trekkersnow.com)
-
-💼 **LinkedIn:**  
-[linkedin.com/in/noman-ejaz-66458b1b5](https://www.linkedin.com/in/noman-ejaz-66458b1b5/)
-
-💻 **GitHub:**  
-[github.com/NoumanEjaz-dev](https://github.com/NoumanEjaz-dev)
+`Python` • `PyTorch` • `Pandas` • `Matplotlib` • `Jupyter` • `Hugging Face` • `LoRA` • `PEFT`
 
 ---
 
 <p align="center">
-<i>
-Interested in building intelligent systems that connect software,
-AI, healthcare, and the physical world.
-</i>
+  <i>Software Engineering • Artificial Intelligence • Healthcare • AIoT</i>
 </p>
